@@ -627,13 +627,9 @@ select:not([multiple]) {
     .tm-social-links li { margin-right: 3px; }
 }
 
-.textoylogo {
-	display: flex;
-	
-        width: 100%;
-        max-width: 150px;
 
     .logo {
         width: 100%;
         max-width: 150px;
-
+	margin: auto;
+	}
