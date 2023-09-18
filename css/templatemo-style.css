@@ -627,6 +627,11 @@ select:not([multiple]) {
     .tm-social-links li { margin-right: 3px; }
 }
 
+    .textoylogo {
+	margin: auto;
+	}
+
+	
 
     .logo {
         width: 100%;
